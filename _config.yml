@@ -1,1 +1,5 @@
 theme: jekyll-theme-architect
+
+# Exclude these files from production site
+exclude:
+  - README.md
