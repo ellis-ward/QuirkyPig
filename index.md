@@ -2,6 +2,6 @@ The Quirky Pig
 
 Website coming soon. Keep tuned for updates!
 
-<a href ="www.facebook.com/thequirkypig"> Facebook </a> <br>
-<a href ="www.instagram.com/thequirkypig"> Instagram </a> <br>
-<a href ="www.pinterest.com/thequirkypig"> Pinterest </a> <br>
+<a href ="https://Facebook.com/thequirkypig"> Facebook </a> <br>
+<a href ="https://instagram.com/thequirkypig"> Instagram </a> <br>
+<a href ="https://pinterest.com/thequirkypig"> Pinterest </a> <br>
